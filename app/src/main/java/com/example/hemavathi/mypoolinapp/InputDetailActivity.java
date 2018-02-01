@@ -208,7 +208,7 @@ public class InputDetailActivity extends AppCompatActivity{
 //OPTIONAL IF RECEIPIENT VIRTUAL ADDRESS NOT KNOWN
         bundle.putString("recipientBankMMID", "");//Not for UPI Request
 //OPTIONAL IF RECEIPIENT VIRTUAL ADDRESS NOT KNOWN
-        bundle.putString("recipientAadharNo", "");//Not for UPI Request
+        bundle.putString("recipientAadharNo", "");
 //OPTIONAL IF RECEIPIENT VIRTUAL ADDRESS NOT KNOWN
         bundle.putString("requestType", MypoolinConstants.PAY);//req
 //NOTE : type of payment PAY / REQUEST / UPI_REQUEST
