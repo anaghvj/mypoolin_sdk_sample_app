@@ -28,10 +28,6 @@ public class InputDetailActivity extends AppCompatActivity{
     public Button proceed;
     public Activity activity;
     public String name, mobile, email, rName, rId, rMobile, rEmail, rAccountNo, rIFSCCode, desc, amt, randomNumber;
-   // public String ID_P2P = "mypoolin_test";
-   // public String ID_P2M = "mypoolin_test_p2m";
-   // public String KEY_P2M = "BBueqE2tmBZW7SRV2MTbD2EVuP4Izl6Y";
-   // public String KEY_P2P = "3bdc97c4071747c2aad1a90912e7f6c8";
     public AccessStringInfoData accessStringInfoData;
 
     @Override
